@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="calzado_options">
+        <item>@string/calzado_a</item>
+        <item>@string/calzado_b</item>
+        <item>@string/calzado_c</item>
+    </string-array>
+    <string-array name="talla_options">
+        <item>@string/ocho</item>
+        <item>@string/nueve</item>
+        <item>@string/diez</item>
+    </string-array>
+</resources>

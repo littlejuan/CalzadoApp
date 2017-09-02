@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calzado App</string>
+    <string name="calzado_a">Ejecutivo</string>
+    <string name="calzado_b">Premier</string>
+    <string name="calzado_c">Emperador</string>
+    <string name="ocho">8</string>
+    <string name="nueve">9</string>
+    <string name="diez">10</string>
+
+</resources>
